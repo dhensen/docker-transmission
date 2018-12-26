@@ -1,5 +1,4 @@
-# FROM timhaak/base
-FROM ubuntu:17.04
+FROM ubuntu:17.10
 
 LABEL maintainer "Dino Hensen <dino.hensen@gmail.com>"
 
